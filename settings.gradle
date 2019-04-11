@@ -1,0 +1,6 @@
+rootProject.name = 'spark-gradle'
+
+//scalaVersion="2.11.8"
+//slf4jVersion="1.7.21"
+//logbackVersion="1.1.7"
+//sparkVersion="2.6.0"
